@@ -19,7 +19,7 @@
     <PackageReference Include="Microsoft.Extensions.Logging.Log4Net.AspNetCore" Version="8.0.0" />
 
     <!-- JSON handling -->
-    <PackageReference Include="System.Text.Json" Version="8.0.4" />
+    <PackageReference Include="System.Text.Json" Version="8.0.5" />
 
     <!-- Exclude child projects when running dotnet build -->
     <Compile Remove="test\**" />
